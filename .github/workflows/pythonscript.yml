@@ -15,5 +15,5 @@ jobs:
           python-version: '3.9' # install the python version needed         
           
       - name: execute py script # run main.py       
-        run: python helloworld.py
+        run: python hello.py
         
